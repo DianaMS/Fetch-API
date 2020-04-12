@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Diana",
+        "email" : "diana@gmail.com",
+        "pais": "Perú"
+    },
+    {
+        "id": 2,
+        "nombre": "Cynthia",
+        "email" : "cynthia@gmail.com",
+        "pais": "Argentina"
+    },
+    {
+        "id": 3,
+        "nombre": "Guadalupe",
+        "email" : "guadalupe@gmail.com",
+        "pais": "Brasil"
+    },
+    {
+        "id": 4,
+        "nombre": "Lucy",
+        "email" : "lucy@gmail.com",
+        "pais": "Colombia"
+    }
+]
